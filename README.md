@@ -10,7 +10,7 @@ The dataset containing the final nationwide building function map is too large f
 
 **Access the dataset here:**
 
-[![DOI](will be uploaded)
+[![DOI](10.6084/m9.figshare.30025600)
 
 ### Raw Input Data (Source)
 
