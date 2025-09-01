@@ -11,3 +11,7 @@ The dataset containing the final nationwide building function map is too large f
 **Access the dataset here:**
 
 [![DOI](will be uploaded)
+
+### Raw Input Data (Source)
+
+The raw geospatial datasets used as input for this study are publicly available.
